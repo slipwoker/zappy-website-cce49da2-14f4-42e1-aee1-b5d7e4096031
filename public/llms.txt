@@ -1,0 +1,79 @@
+# Business — Generative Engine Optimization Map
+
+---
+
+## Pages
+
+### בית
+https://example.com
+גלה את קולקציית חולצות כדורגל הרחוב הייחודית שמשלבת אופנה עירונית עם תרבות הכדורגל. סטייל אורבני אותנטי לקהילת הכדורגל הישראלית - הזמן עכשיו!
+
+### אודות
+https://example.com/about
+מותג ישראלי שנולד מאהבה לכדורגל רחוב ותרבות עירונית. למד איך אנחנו משנים את פני אופנת הספורט האורבנית ויוצרים קהילה של חובבי סטרייט ווייר וכדורגל.
+
+### קהילה
+https://example.com/community
+חבר לקהילה תוססת של אוהבי כדורגל רחוב ואופנה אורבנית. אירועים, טורנירים, והשראה יומיומית מעולם הסטרייט ווייר הכדורגלי - היה חלק מהתנועה!
+
+### צור קשר
+https://example.com/contact
+יש לך שאלות על הקולקציה שלנו? רוצה להזמין טישרטים כדורגל סטרייט ווייר? צור קשר עכשיו ונחזור אליך תוך 24 שעות. אנחנו כאן בשבילך!
+
+### Products
+https://example.com/products
+המוצרים שלנו - 90 TH minutes tees
+
+### Cart
+https://example.com/cart
+עגלת הקניות שלך
+
+### Checkout
+https://example.com/checkout
+תשלום
+
+### Login
+https://example.com/login
+התחברות לקוחות
+
+### Account
+https://example.com/account
+החשבון שלי
+
+### Order Success
+https://example.com/order-success
+תודה על ההזמנה
+
+### Product Detail
+https://example.com/product/:slug
+פרטי המוצר - 90 TH minutes tees
+
+### Category
+https://example.com/category/:slug
+מוצרים - 90 TH minutes tees
+
+## Legal & Policy
+
+### Privacy Policy
+https://example.com/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://example.com/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://example.com/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Business
+---
+
+# Additional Resources
+
+- **Sitemap**: https://example.com/sitemap.xml
+- **Robots.txt**: https://example.com/robots.txt
